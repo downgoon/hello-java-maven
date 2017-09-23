@@ -7,6 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
+	<name>hello-java-maven</name>
 	<description>a template for java maven project</description>
 	<url>http://github.com/downgoon/hello-java-maven</url>
 	<licenses>
